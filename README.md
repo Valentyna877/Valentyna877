@@ -39,7 +39,7 @@ JavaScript (ES6+) | HTML5 | CSS3 | React | Node.js | REST API | Git | Agile/Scru
   *Tech:* HTML5, CSS3, JavaScript (ES6+), Swiper.js, iziToast, SweetAlert2, Accordion, Raty.js, Fetch API.  
 
 
-- [🍫 Simply Chocolate](https://github.com/Commercial-team-projects/simply-chocolate-evening/) – Single‑page site for a chocolate shop.  
+- [🍫 Simply Chocolate](https://commercial-team-projects.github.io/simply-chocolate-evening/) – Single‑page site for a chocolate shop.  
   *Role:* Developed “Taste Section” and JS slider in “Loved Section,” assisted in debugging other sections.  
   *Tech:* HTML5, CSS3, JavaScript.  
 
