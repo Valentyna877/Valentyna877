@@ -38,9 +38,11 @@ JavaScript (ES6+) | HTML5 | CSS3 | React | Node.js | REST API | Git | Agile/Scru
   *Role:* Ensured modal functionality, conducted code reviews, assisted teammates in improving their sections.  
   *Tech:* HTML5, CSS3, JavaScript (ES6+), Swiper.js, iziToast, SweetAlert2, Accordion, Raty.js, Fetch API.  
 
+<!--
 - [🍫 Simply Chocolate](https://github.com/Commercial-team-projects/simply-chocolate-evening) – Single‑page site for a chocolate shop.  
   *Role:* Developed “Taste Section” and JS slider in “Loved Section,” assisted in debugging other sections.  
   *Tech:* HTML5, CSS3, JavaScript.  
+  -->
 
 - [☕ CoffeeJoy](https://dmytro-dobrotvorskyi.github.io/project-08/) – Single‑page site for a coffee shop.  
   *Role:* Built Hero section, reviewed teammates’ code, contributed to improvements across sections.  
