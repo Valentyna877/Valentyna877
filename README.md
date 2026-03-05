@@ -59,7 +59,10 @@ JavaScript (ES6+) | HTML5 | CSS3 | React | Node.js | REST API | Git | Agile/Scru
 
 ## 📫 How to reach me  
 
-[LinkedIn](https://www.linkedin.com/in/valentyna-shpakivska-aydemir/) | [GitHub](https://github.com/Valentyna877) | [Email](valentyna.shpakivska.aydemir@gmail.com)  
+<!--
+[LinkedIn](https://www.linkedin.com/in/valentyna-shpakivska-aydemir/) |
+-->
+[GitHub](https://github.com/Valentyna877) | [Email](valentyna.shpakivska.aydemir@gmail.com)  
 
 ---
 
